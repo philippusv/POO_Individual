@@ -17,7 +17,7 @@ public class Exercicio1 {
 		Scanner sc = new Scanner(System.in);
 
 		// funcao escreva
-		System.out.print("Por favor, informe seu nome: ");
+		System.out.print("Por favor, digite e informe seu nome: ");
 		// funcao leia
 		nome = sc.nextLine();
 		// utilizando do laco for para limpar a tela
