@@ -7,6 +7,7 @@ public class Exercicio2 {
 	public static void main(String[] args) {
 		String idade;
 		String somaIdade;
+		somaIdade = 0;
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -20,6 +21,8 @@ public class Exercicio2 {
 		System.out.println("Qual é a sua idade? ");
 		idade = sc.next();
 		somaIdade = somaIdade + idade;
+		
+		sc.close();
 		
 		System.out.println("O tempo de vida meu e dos meus colegas é " + somaIdade);
 
