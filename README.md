@@ -30,9 +30,13 @@ Os relatórios podem ser visualizados na tela ou impressos em arquivos de texto.
 
 O código inclui um utilitário Util para configuração personalizada de logs e formatação de saída.</p>
 
-<<<<<<< HEAD
 <h2>Tecnologias utilizadas</h2>
-=======
+  <img src="https://github.com/philippusv/POO_Individual/blob/main/Imagens/wjava.png" height="50" width="50"> <a href="https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html">Java 11</a>  <br/>
+  <br/>
+  <img src="https://github.com/philippusv/POO_Individual/blob/main/Imagens/spring-tool.svg" height="50" width="50"> <a href="https://spring.io/tools">Spring Tools Suite 4</a>
+
+<h2>Autor</h2>
+<a href="https://github.com/philippusv">Felipe Ribeiro</a>
 
 
->>>>>>> 7ea8831e5209feb3349cc1b8c47deeaeeba987e4
+
