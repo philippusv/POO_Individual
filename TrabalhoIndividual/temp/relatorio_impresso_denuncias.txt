@@ -1,0 +1,6 @@
+Relatório Impresso - Denuncias:
+20/08/2018;Assalto;Ponto de onibus
+13/10/2020;Homicidio;Supermercado
+21/03/2023;Furto;UCP
+21/03/2023;Homicidioo;Praça Cenip
+21/03/2023;Homicidio;Obelisco

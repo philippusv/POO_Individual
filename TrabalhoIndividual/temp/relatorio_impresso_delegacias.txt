@@ -1,0 +1,6 @@
+Relatório Impresso - Delegacias:
+Cascatinha;Rua Cascatinha;22453456
+Itaipava;Rua Itaipava;22452467
+Centro;Rua do Imperador;22544678
+Posse;Rua Posse;22457890
+Itamarati;Rua Itamarati;22317568

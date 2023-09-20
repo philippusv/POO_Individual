@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -27,3 +26,7 @@ replay_pid*
 /Exercicios_Java/.project
 /Exercicios_Java/.gitignore
 /Exercicios_Java/bin
+/TrabalhoIndividual/.classpath
+/TrabalhoIndividual/.project
+/TrabalhoIndividual/.gitignore
+/TrabalhoIndividual/bin
